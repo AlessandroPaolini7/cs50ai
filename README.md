@@ -9,5 +9,5 @@ CS50AI is a course offered by Harvard University that introduces students to the
 ## Projects
 
 1. **Project 0: Degrees**
-   - Description: In this project, we implement a program that determines the degree of separation between two actors by finding the shortest path between them in a movie database.
-   - Files: `degrees.py`, `large`, `small`
+   - Description: In this project, I implemented a program that determines the degree of separation between two actors by finding the shortest path between them in a movie database.
+   - Files: `degrees.py`, `small`

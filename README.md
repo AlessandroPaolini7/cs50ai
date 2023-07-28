@@ -1,12 +1,10 @@
 # CS50AI Repository
 
-Welcome to the CS50AI repository! This repository contains all the projects and assignments completed as part of the CS50AI course.
+Welcome to my CS50AI repository! This repository contains all the projects and assignments completed as part of the CS50AI course.
 
 ## About CS50AI
 
 CS50AI is a course offered by Harvard University that introduces students to the exciting field of Artificial Intelligence. Throughout this course, students learn various AI concepts, algorithms, and techniques, using Python and other tools. The projects in this repository showcase the implementation and application of different AI techniques, providing a hands-on learning experience.
-
-## Projects
 
 ## Projects
 

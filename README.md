@@ -8,6 +8,20 @@ CS50AI is a course offered by Harvard University that introduces students to the
 
 ## Projects
 
-1. **Project 0: Degrees**
-   - Description: In this project, we implement a program that determines the degree of separation between two actors by finding the shortest path between them in a movie database.
-   - Files: `degrees.py`, `large`, `small`
+### Project 0: Degrees
+
+Description: In this project, I implemented a program that determines the degree of separation between two actors by finding the shortest path between them in a movie database.
+
+Files:
+- `degrees.py`
+- `small`
+
+### Project 0b: Tic Tac Toe
+
+Description: In this project, I implemented a Tic Tac Toe game using Python and utilized the Minimax algorithm to create an AI player that plays optimally. To try it, please make sure to run `pip3 install -r requirements.txt` in the directory of the project to install the required Python package (pygame). After that, you should be able to run python runner.py to play against the AI.
+
+Files:
+- `tictactoe.py`
+-  `runner.py`
+-  `requirements.txt`
+

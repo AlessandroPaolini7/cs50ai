@@ -25,3 +25,11 @@ Files:
 -  `runner.py`
 -  `requirements.txt`
 
+### Project 1a: Knights and Knaves
+
+**Description:** In this project, I implemented a program to solve logic puzzles involving Knights and Knaves. Knights always tell the truth, while Knaves always lie. The goal is to determine who is a Knight and who is a Knave based on the statements provided by characters in the puzzle.
+
+**Files:**
+
+- `logic.py`
+- `puzzle.py`

@@ -33,3 +33,12 @@ Files:
 
 - `logic.py`
 - `puzzle.py`
+
+### Project 1b: Minesweeper
+
+**Description:** In this project, I implemented a Minesweeper game. Minesweeper is a classic puzzle game where the player must uncover hidden mines on a grid while avoiding triggering them. The game incorporates AI techniques to provide hints and improve gameplay.
+
+**Files:**
+- `minesweeper.py`
+- `runner.py`
+- `requirements.txt`

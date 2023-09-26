@@ -56,4 +56,12 @@ CS50AI is a course offered by Harvard University that introduces students to the
 **Files:**
 - `heredity.py`
 
+### Project 3: Crossword
+
+**Description:** In this project, I implemented an AI program to solve crossword puzzles. The program uses constraint satisfaction techniques and word crossings to fill in crossword grids.
+
+**Files:**
+- `crossword.py`
+- `generate.py`
+  
 Feel free to explore each project's directory for more details and code!

@@ -71,5 +71,13 @@ CS50AI is a course offered by Harvard University that introduces students to the
 **Files:**
 - `shopping.py`
 - `shopping.csv`
-  
+
+### Project 4b: Nim
+
+**Description:** In this project, I implemented the game of Nim and created an AI player using Q-learning. Nim is a classic two-player mathematical game where players take turns removing items from distinct heaps. The objective is to be the player to remove the last item or items from the last heap. 
+
+**Files:**
+- `nim.py`
+- `play.py`
+
 Feel free to explore each project's directory for more details and code!

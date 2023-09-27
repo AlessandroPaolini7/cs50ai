@@ -63,5 +63,13 @@ CS50AI is a course offered by Harvard University that introduces students to the
 **Files:**
 - `crossword.py`
 - `generate.py`
+
+### Project 4a: Shopping
+
+**Description:** In this project, I build a nearest-neighbor classifier to predict whether a user intends to make a purchase during an online shopping session. The classifier uses various user session data, such as page visits, session duration, and more.
+
+**Files:**
+- `shopping.py`
+- `shopping.csv`
   
 Feel free to explore each project's directory for more details and code!

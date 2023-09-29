@@ -80,4 +80,11 @@ CS50AI is a course offered by Harvard University that introduces students to the
 - `nim.py`
 - `play.py`
 
+### Project 5: Traffic
+
+**Description:** In this project, I implemented a deep convolutional neural network to classify traffic signs with high accuracy. The goal is to train a model that can recognize and categorize traffic signs from images.
+
+**Files:**
+- `traffic.py`
+
 Feel free to explore each project's directory for more details and code!

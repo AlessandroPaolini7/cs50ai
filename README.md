@@ -87,4 +87,11 @@ CS50AI is a course offered by Harvard University that introduces students to the
 **Files:**
 - `traffic.py`
 
+### Project 6a: Parser
+
+**Description:** In this project, I implemented a natural language processing parser using context-free grammar rules. The parser analyzes sentences and identifies noun phrase chunks within the sentences.
+
+**Files:**
+- `parser.py`
+
 Feel free to explore each project's directory for more details and code!

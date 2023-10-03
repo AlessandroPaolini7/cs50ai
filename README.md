@@ -94,4 +94,11 @@ CS50AI is a course offered by Harvard University that introduces students to the
 **Files:**
 - `parser.py`
 
+### Project 6b: Attention
+
+**Description:** In this project, I implemented a system to generate predictions for masked words in a text using a pre-trained masked language model. The project also includes the visualization of attention scores for each token in the input text.
+
+**Files:**
+- `mask.py`
+
 Feel free to explore each project's directory for more details and code!
